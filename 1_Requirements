@@ -62,7 +62,7 @@ Mainly this project is developed and used to avoid some loss for the Customers.
 2. Inserting account details.  
 3. Updating the balance on any withdrawal or deposits made.
 4. Time consuming.
-# Detail requirements
+## Detail requirements
 #### High Level Requirements:
 |   ID  | Description       |        Status                      |
 | ----- | ----------------- | ---------------------------------- |
